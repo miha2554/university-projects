@@ -1,3 +1,24 @@
+/*
+1.	Sellers – продавцы продукции:
+●	ID – идентификатор продавца;
+●	Surname – фамилия продавца;
+●	Name – имя продавца.
+2.	Products – продукция:
+●	ID – идентификатор продукта;
+●	Name – наименование продукта;
+●	Price – цена за единицу продукта.
+3.	Sales – продажи продукции:
+●	ID – идентификатор;
+●	IDSel – поле ID из таблицы Sellers;
+●	IDProd – поле ID из таблицы Products;
+●	Date – дата продажи продукции;
+●	Quantity – объем проданной продукции.
+4.	Arrivals – поступление продукции:
+●	ID – идентификатор;
+●	IDProd – поле ID из таблицы Products;
+●	Date – дата поступления продукции;
+●	Quantity – объем поступившей продукции
+*/
 DROP TABLE IF EXISTS Sellers CASCADE;
 CREATE TABLE Sellers(
     ID SERIAL PRIMARY KEY,
