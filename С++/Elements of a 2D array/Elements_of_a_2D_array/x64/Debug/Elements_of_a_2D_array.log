@@ -1,4 +1,0 @@
-﻿  Elements_of_a_2D_array.cpp
-C:\Users\lavre\source\repos\Elements_of_a_2D_array\Elements_of_a_2D_array.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\lavre\source\repos\Elements_of_a_2D_array\Elements_of_a_2D_array.cpp(10,26): warning C4101: i: неиспользованная локальная переменная
-  Elements_of_a_2D_array.vcxproj -> C:\Users\lavre\source\repos\Elements_of_a_2D_array\x64\Debug\Elements_of_a_2D_array.exe
