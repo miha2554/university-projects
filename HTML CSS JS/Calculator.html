@@ -1,0 +1,101 @@
+<html>
+  <head>
+  <meta charset="utf-8">  
+    <script>
+    // запуск данной функции при загрузке документа
+       window.onload = function() {
+	    let sings = [
+			'1','2','3','+',
+			'4','5','6','-',
+			'7','8','9','/',
+			'0','=','c','*' ];
+		
+		let textArea = document.getElementById('number');
+		let container  = document.getElementById("container");
+		let tree = document.createDocumentFragment();
+		
+		for(let i=0; i<sings.length; i++)
+		{
+			if(i%4==0){let br = document.createElement("br"); tree.appendChild(br);}
+			let btn = document.createElement("input");
+			btn.setAttribute("type", "button");
+			btn.setAttribute("class", "num_btn");
+			btn.setAttribute("value", sings[i]);
+			tree.appendChild(btn);
+		}
+		container.appendChild(tree);
+		
+		document.querySelectorAll(".num_btn").forEach(function(item){item.addEventListener('click',button_press)});
+		
+		var num1;
+		var num2;
+		var oper;
+		
+		function button_press()
+		{
+			if(Number.isInteger(parseInt(this.value)))
+			{
+				if(textArea.value == 0)
+				{
+					textArea.value = '';
+				}
+				
+				textArea.value += this.value;
+			}
+			else if(this.value == '+' || this.value == '-' || this.value == '*' || this.value == '/')
+			{
+				if(oper == undefined && num1 == undefined)
+				{
+					num1 = parseInt(textArea.value);
+					oper = this.value;
+					textArea.value = 0;
+				}
+				else
+				{
+					oper = this.value;
+					textArea.value = 0;
+				}
+			}
+			else if(this.value == 'c')
+			{
+				textArea.value = 0;
+				num1 = undefined;
+				num2 = undefined;
+				oper = undefined;
+			}
+			else if(this.value == '=')
+			{
+				num2 = parseInt(textArea.value);
+				textArea.value = '';
+				if(oper == '+')
+				{
+					textArea.value = num1 + num2;
+					num1 = num1 + num2;
+				}
+				else if(oper == '-')
+				{
+					textArea.value = num1 - num2;
+					num1 = num1 - num2;
+				}
+				else if(oper == '*')
+				{
+					textArea.value = num1 * num2;
+					num1 = num1 * num2;
+				}
+				else if(oper == '/')
+				{
+					textArea.value = num1 / num2;
+					num1 = num1 / num2;
+				}
+				oper = undefined;
+				num2 = undefined;
+			}
+		}
+    }
+    </script>
+  </head >
+  <body>
+	<input id="number" value="0">
+	<div id="container"></div>
+  </body>
+</html>
