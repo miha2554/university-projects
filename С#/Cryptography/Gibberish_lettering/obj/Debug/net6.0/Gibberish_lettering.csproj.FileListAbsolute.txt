@@ -1,0 +1,15 @@
+C:\Users\lavre\source\repos\Gibberish_lettering\bin\Debug\net6.0\Gibberish_lettering.exe
+C:\Users\lavre\source\repos\Gibberish_lettering\bin\Debug\net6.0\Gibberish_lettering.deps.json
+C:\Users\lavre\source\repos\Gibberish_lettering\bin\Debug\net6.0\Gibberish_lettering.runtimeconfig.json
+C:\Users\lavre\source\repos\Gibberish_lettering\bin\Debug\net6.0\Gibberish_lettering.dll
+C:\Users\lavre\source\repos\Gibberish_lettering\bin\Debug\net6.0\Gibberish_lettering.pdb
+C:\Users\lavre\source\repos\Gibberish_lettering\obj\Debug\net6.0\Gibberish_lettering.csproj.AssemblyReference.cache
+C:\Users\lavre\source\repos\Gibberish_lettering\obj\Debug\net6.0\Gibberish_lettering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavre\source\repos\Gibberish_lettering\obj\Debug\net6.0\Gibberish_lettering.AssemblyInfoInputs.cache
+C:\Users\lavre\source\repos\Gibberish_lettering\obj\Debug\net6.0\Gibberish_lettering.AssemblyInfo.cs
+C:\Users\lavre\source\repos\Gibberish_lettering\obj\Debug\net6.0\Gibberish_lettering.csproj.CoreCompileInputs.cache
+C:\Users\lavre\source\repos\Gibberish_lettering\obj\Debug\net6.0\Gibberish_lettering.dll
+C:\Users\lavre\source\repos\Gibberish_lettering\obj\Debug\net6.0\refint\Gibberish_lettering.dll
+C:\Users\lavre\source\repos\Gibberish_lettering\obj\Debug\net6.0\Gibberish_lettering.pdb
+C:\Users\lavre\source\repos\Gibberish_lettering\obj\Debug\net6.0\Gibberish_lettering.genruntimeconfig.cache
+C:\Users\lavre\source\repos\Gibberish_lettering\obj\Debug\net6.0\ref\Gibberish_lettering.dll
