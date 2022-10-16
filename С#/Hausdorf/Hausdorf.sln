@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.0.0.6842
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hausdorf", "Hausdorf\Hausdorf.csproj", "{A2976925-3BD5-475C-95E1-1E2F3585D388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2976925-3BD5-475C-95E1-1E2F3585D388}.Debug|x86.Build.0 = Debug|x86
+		{A2976925-3BD5-475C-95E1-1E2F3585D388}.Debug|x86.ActiveCfg = Debug|x86
+		{A2976925-3BD5-475C-95E1-1E2F3585D388}.Release|x86.Build.0 = Release|x86
+		{A2976925-3BD5-475C-95E1-1E2F3585D388}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
