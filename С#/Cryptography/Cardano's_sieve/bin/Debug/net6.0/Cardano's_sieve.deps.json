@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cardano's_sieve/1.0.0": {
+        "runtime": {
+          "Cardano's_sieve.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cardano's_sieve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

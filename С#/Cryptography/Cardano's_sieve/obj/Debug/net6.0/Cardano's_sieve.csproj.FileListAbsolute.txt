@@ -1,0 +1,15 @@
+C:\Users\lavre\source\repos\Cardano's_sieve\bin\Debug\net6.0\Cardano's_sieve.exe
+C:\Users\lavre\source\repos\Cardano's_sieve\bin\Debug\net6.0\Cardano's_sieve.deps.json
+C:\Users\lavre\source\repos\Cardano's_sieve\bin\Debug\net6.0\Cardano's_sieve.runtimeconfig.json
+C:\Users\lavre\source\repos\Cardano's_sieve\bin\Debug\net6.0\Cardano's_sieve.dll
+C:\Users\lavre\source\repos\Cardano's_sieve\bin\Debug\net6.0\Cardano's_sieve.pdb
+C:\Users\lavre\source\repos\Cardano's_sieve\obj\Debug\net6.0\Cardano's_sieve.csproj.AssemblyReference.cache
+C:\Users\lavre\source\repos\Cardano's_sieve\obj\Debug\net6.0\Cardano's_sieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavre\source\repos\Cardano's_sieve\obj\Debug\net6.0\Cardano's_sieve.AssemblyInfoInputs.cache
+C:\Users\lavre\source\repos\Cardano's_sieve\obj\Debug\net6.0\Cardano's_sieve.AssemblyInfo.cs
+C:\Users\lavre\source\repos\Cardano's_sieve\obj\Debug\net6.0\Cardano's_sieve.csproj.CoreCompileInputs.cache
+C:\Users\lavre\source\repos\Cardano's_sieve\obj\Debug\net6.0\Cardano's_sieve.dll
+C:\Users\lavre\source\repos\Cardano's_sieve\obj\Debug\net6.0\refint\Cardano's_sieve.dll
+C:\Users\lavre\source\repos\Cardano's_sieve\obj\Debug\net6.0\Cardano's_sieve.pdb
+C:\Users\lavre\source\repos\Cardano's_sieve\obj\Debug\net6.0\Cardano's_sieve.genruntimeconfig.cache
+C:\Users\lavre\source\repos\Cardano's_sieve\obj\Debug\net6.0\ref\Cardano's_sieve.dll
