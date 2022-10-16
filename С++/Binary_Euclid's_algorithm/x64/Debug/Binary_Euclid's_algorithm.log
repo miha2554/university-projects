@@ -1,0 +1,6 @@
+﻿  Binary_Euclid's_algorithm.cpp
+C:\Users\lavre\source\repos\Binary_Euclid's_algorithm\Binary_Euclid's_algorithm.cpp(14,16): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lavre\source\repos\Binary_Euclid's_algorithm\Binary_Euclid's_algorithm.cpp(27,16): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lavre\source\repos\Binary_Euclid's_algorithm\Binary_Euclid's_algorithm.cpp(40,16): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\lavre\source\repos\Binary_Euclid's_algorithm\Binary_Euclid's_algorithm.cpp(79,15): warning C4101: d: неиспользованная локальная переменная
+  Binary_Euclid's_algorithm.vcxproj -> C:\Users\lavre\source\repos\Binary_Euclid's_algorithm\x64\Debug\Binary_Euclid's_algorithm.exe
