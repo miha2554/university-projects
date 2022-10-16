@@ -1,0 +1,14 @@
+﻿  Conjugate_gradient_method.cpp
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(41,61): warning C4244: =: преобразование "double" в "real", возможна потеря данных
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(103,20): warning C4244: =: преобразование "double" в "real", возможна потеря данных
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(104,20): warning C4244: =: преобразование "double" в "real", возможна потеря данных
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(100,12): warning C4101: j: неиспользованная локальная переменная
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(100,9): warning C4101: i: неиспользованная локальная переменная
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(114,49): warning C4244: =: преобразование "int" в "real", возможна потеря данных
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(122,24): warning C4305: =: усечение из "double" в "real"
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(146,12): warning C4101: j: неиспользованная локальная переменная
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(155,12): warning C4101: j: неиспользованная локальная переменная
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(165,24): warning C4305: инициализация: усечение из "double" в "real"
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(180,18): warning C4244: =: преобразование "int" в "real", возможна потеря данных
+C:\Users\lavre\source\repos\Conjugate_gradient_method\Conjugate_gradient_method.cpp(167,12): warning C4101: j: неиспользованная локальная переменная
+  Conjugate_gradient_method.vcxproj -> C:\Users\lavre\source\repos\Conjugate_gradient_method\x64\Debug\Conjugate_gradient_method.exe
