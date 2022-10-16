@@ -1,0 +1,3 @@
+﻿  Division_with_remainder.cpp
+C:\Users\lavre\source\repos\Division_with_remainder\Division_with_remainder.cpp(8,6): warning C4101: n: неиспользованная локальная переменная
+  Division_with_remainder.vcxproj -> C:\Users\lavre\source\repos\Division_with_remainder\x64\Debug\Division_with_remainder.exe
