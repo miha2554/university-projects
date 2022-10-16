@@ -1,0 +1,15 @@
+C:\Users\lavre\source\repos\The_Vigénère_cipher\bin\Debug\net6.0\The_Vigénère_cipher.exe
+C:\Users\lavre\source\repos\The_Vigénère_cipher\bin\Debug\net6.0\The_Vigénère_cipher.deps.json
+C:\Users\lavre\source\repos\The_Vigénère_cipher\bin\Debug\net6.0\The_Vigénère_cipher.runtimeconfig.json
+C:\Users\lavre\source\repos\The_Vigénère_cipher\bin\Debug\net6.0\The_Vigénère_cipher.dll
+C:\Users\lavre\source\repos\The_Vigénère_cipher\bin\Debug\net6.0\The_Vigénère_cipher.pdb
+C:\Users\lavre\source\repos\The_Vigénère_cipher\obj\Debug\net6.0\The_Vigénère_cipher.csproj.AssemblyReference.cache
+C:\Users\lavre\source\repos\The_Vigénère_cipher\obj\Debug\net6.0\The_Vigénère_cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavre\source\repos\The_Vigénère_cipher\obj\Debug\net6.0\The_Vigénère_cipher.AssemblyInfoInputs.cache
+C:\Users\lavre\source\repos\The_Vigénère_cipher\obj\Debug\net6.0\The_Vigénère_cipher.AssemblyInfo.cs
+C:\Users\lavre\source\repos\The_Vigénère_cipher\obj\Debug\net6.0\The_Vigénère_cipher.csproj.CoreCompileInputs.cache
+C:\Users\lavre\source\repos\The_Vigénère_cipher\obj\Debug\net6.0\The_Vigénère_cipher.dll
+C:\Users\lavre\source\repos\The_Vigénère_cipher\obj\Debug\net6.0\refint\The_Vigénère_cipher.dll
+C:\Users\lavre\source\repos\The_Vigénère_cipher\obj\Debug\net6.0\The_Vigénère_cipher.pdb
+C:\Users\lavre\source\repos\The_Vigénère_cipher\obj\Debug\net6.0\The_Vigénère_cipher.genruntimeconfig.cache
+C:\Users\lavre\source\repos\The_Vigénère_cipher\obj\Debug\net6.0\ref\The_Vigénère_cipher.dll
