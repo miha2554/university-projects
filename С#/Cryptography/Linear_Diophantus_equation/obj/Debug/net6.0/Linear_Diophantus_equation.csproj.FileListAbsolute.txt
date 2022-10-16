@@ -1,0 +1,15 @@
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\bin\Debug\net6.0\Linear_Diophantus_equation.exe
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\bin\Debug\net6.0\Linear_Diophantus_equation.deps.json
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\bin\Debug\net6.0\Linear_Diophantus_equation.runtimeconfig.json
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\bin\Debug\net6.0\Linear_Diophantus_equation.dll
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\bin\Debug\net6.0\Linear_Diophantus_equation.pdb
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\obj\Debug\net6.0\Linear_Diophantus_equation.csproj.AssemblyReference.cache
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\obj\Debug\net6.0\Linear_Diophantus_equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\obj\Debug\net6.0\Linear_Diophantus_equation.AssemblyInfoInputs.cache
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\obj\Debug\net6.0\Linear_Diophantus_equation.AssemblyInfo.cs
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\obj\Debug\net6.0\Linear_Diophantus_equation.csproj.CoreCompileInputs.cache
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\obj\Debug\net6.0\Linear_Diophantus_equation.dll
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\obj\Debug\net6.0\refint\Linear_Diophantus_equation.dll
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\obj\Debug\net6.0\Linear_Diophantus_equation.pdb
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\obj\Debug\net6.0\Linear_Diophantus_equation.genruntimeconfig.cache
+C:\Users\lavre\source\repos\Linear_Diophantus_equation\obj\Debug\net6.0\ref\Linear_Diophantus_equation.dll
